@@ -41,5 +41,6 @@ Part -1
   
 9. Data Studio
    The graphical analysis was made using the Data Studio. On the time of this project, SunTrust Bank is hiring more employees than Discover Financial. The hiring of SunTrust Bank is more focused in Southern East area of USA where as hiring of Discover  Financial is more focused in Central America. Both the banks are interested in hiring employes skilled in the field of finance, management, FIS and Tech Security.
+   
 Claat Report:
 https://bit.ly/2IWCpyd
